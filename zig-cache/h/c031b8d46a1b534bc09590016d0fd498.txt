@@ -1,0 +1,1 @@
+8002 281474976849481 1648610182405577700 e1753f74ef6382d0858716615b9c059c D:\downloads\zig-windows-x86_64-0.10.0-dev.1666+9821a0c6f\zig-windows-x86_64-0.10.0-dev.1666+9821a0c6f\lib\libc\mingw\lib-common\shell32.def

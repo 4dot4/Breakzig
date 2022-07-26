@@ -1,0 +1,1 @@
+28469 281474976849448 1648610182399577700 c52bcfda78c0e3a7dee25c06d8139566 D:\downloads\zig-windows-x86_64-0.10.0-dev.1666+9821a0c6f\zig-windows-x86_64-0.10.0-dev.1666+9821a0c6f\lib\libc\mingw\lib-common\msvcrt.def.in

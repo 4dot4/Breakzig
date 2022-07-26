@@ -1,0 +1,1 @@
+18434 281474976849495 1648610182408118400 2ee71bba958986f8f51cb101ebe2a28f D:\downloads\zig-windows-x86_64-0.10.0-dev.1666+9821a0c6f\zig-windows-x86_64-0.10.0-dev.1666+9821a0c6f\lib\libc\mingw\lib-common\user32.def.in
